@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jesse Cooper
 
-<!--
-**Cooper-Jesse/Cooper-Jesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Jesse Cooper, a student at Brigham Young University-Idaho interested in MSP IT and Software Engineering. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning project management and Software Lifecycle Models
+- My goals are to become a professional respected by my peers.
+
+## Technologies and Tools
+
+- Proficient in: C, C++, and Python
+- Skills: I have experience managing on-site servers, cloud managed services, and network security through my job. Engineering skills from online work and classes.
+
+## Let's Connect!
+
+- Here is my [LinkedIn] www.linkedin.com/in/jesse-r-cooper
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
